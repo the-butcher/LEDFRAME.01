@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "numeric": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "memory_resource": "cpp",
+        "random": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp"
+    }
+}
